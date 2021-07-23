@@ -1,0 +1,2 @@
+# AdvancedEconometrics_BinaryCompetition
+応用計量経済学（離散選択）の最終コンペのコードまとめ
